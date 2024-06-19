@@ -1,0 +1,17 @@
+ Bad Practice 
+
+ 1) use of multiple if else and switch statements --> lead to cyclomatic Complexity 
+ 2) Open- Closed Priciple Voilation 
+ 3) higher the cyclomatic Complexity more bad the code is 
+ 4) DownCasting --> lead to complite time error and shows uncertain behaviour 
+ 5) Type Checking and instance of --> Anti Abstraction 
+
+Quality Code 
+1. Reusable code 
+2. extendale 
+3. Flexible Code 
+4. Stable ---> exception Handling 
+5. Relatiblity 
+6. Modularity 
+7. Security 
+8. Correctness 

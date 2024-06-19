@@ -1,0 +1,9 @@
+{
+    "java.dependency.packagePresentation": "hierarchical",
+    "java.debug.settings.onBuildFailureProceed": true,
+    "files.associations": {
+        "*.js": "javascript",
+        "*.jsx": "javascriptreact",
+        "string": "cpp"
+    }
+}
